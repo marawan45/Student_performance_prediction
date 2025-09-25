@@ -67,6 +67,10 @@ pip install -r requirements.txt
 ```
 
 3. Update file paths in the Python scripts to match your local directory structure.
+## grade prediction app
+<img width="1725" height="905" alt="لقطة شاشة 2025-09-25 173939" src="https://github.com/user-attachments/assets/1cdf5f13-877e-4b73-ad54-02010b519136" />
+## total score prediction app
+<img width="1772" height="914" alt="لقطة شاشة 2025-09-25 160258" src="https://github.com/user-attachments/assets/72aa3e6c-3951-4238-a442-40327de208cc" />
 
 ## 📈 Data Processing Pipeline
 
